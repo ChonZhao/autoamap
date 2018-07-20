@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">自动开启高德地图</string>
+    <string name="kaiguan">是否自动开启高德地图</string>
+    <string name="yanchi">延迟启动时间:</string>
+    <string name="queding">确定并退出界面</string>
+    <string name="tishi">秒后开启高德地图</string>
+</resources>
